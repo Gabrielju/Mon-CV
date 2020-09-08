@@ -1,0 +1,40 @@
+header{
+    padding-bottom: 1em;
+    background-color:#f0b050 ;
+    
+}
+
+.h{
+    margin:0;
+    color:#c05626;
+    border-bottom: #c05626 3px solid;
+}
+
+#etudes{
+    display: flex;
+    
+}
+.etudeg{
+    margin-right: 5em;
+}
+
+#photo{
+    float: left;
+    height: 14em;
+    width: 18em;
+}
+
+main{
+    background:#f0b050;
+}
+
+body{
+    background-color:#c05626;
+    margin: 0 10% 0 10%;
+    color: #470a03;
+}
+
+#loisir{
+    display:flex;
+    justify-content: space-around;
+}
